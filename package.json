@@ -13,14 +13,15 @@
     "@sap-cloud-sdk/http-client": "^2.5.0",
     "@sap/cds": "^6",
     "@sap/cds-dk": "^7",
-    "express": "^4",
     "@sap/cds-hana": "^2",
     "@sap/xssec": "^3",
+    "express": "^4",
     "passport": "^0"
   },
   "devDependencies": {
     "@sap/cds-dk": "^7",
     "@sap/ux-specification": "^1.108.14",
+    "husky": "^4.3.8",
     "sqlite3": "^5.0.4"
   },
   "scripts": {
