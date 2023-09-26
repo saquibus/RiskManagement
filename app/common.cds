@@ -64,7 +64,7 @@ annotate rm.Risks with {
             {
               $Type : 'Common.ValueListParameterInOut',
               LocalDataProperty : bp_BusinessPartner,
-              ValueListProperty : 'BusinessPartner'
+              ValueListProperty : 'BusinessPartner' 
             },
             {
                $Type : 'Common.ValueListParameterDisplayOnly',
