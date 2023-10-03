@@ -10,8 +10,8 @@
   },
   "private": true,
   "dependencies": {
-    "@sap-cloud-sdk/http-client": "^2.5.0",
-    "@sap/cds": "^6",
+    "@sap-cloud-sdk/http-client": "^3.6.0",
+    "@sap/cds": "^7",
     "@sap/cds-dk": "^7",
     "@sap/cds-hana": "^2",
     "@sap/xssec": "^3",
@@ -20,9 +20,9 @@
   },
   "devDependencies": {
     "@sap/cds-dk": "^7",
-    "@sap/ux-specification": "^1.108.14",
-    "husky": "^4.3.8",
-    "sqlite3": "^5.0.4"
+    "@sap/ux-specification": "^1.108.15",
+    "husky": "^8.0.3",
+    "sqlite3": "^5.1.6"
   },
   "scripts": {
     "start": "cds-serve",
